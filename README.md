@@ -40,6 +40,7 @@ This project implements a **Data Engineering pipeline** using the **Medallion Ar
 
 ## 🔄 **Data Flow Diagram**  
 
+![Diagram](https://img.shields.io/badge/Azure-Data%20Pipeline-blue?style=for-the-badge&logo=microsoft-azure)
 
 ---
 
