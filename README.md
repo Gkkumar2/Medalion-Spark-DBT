@@ -1,8 +1,6 @@
 # 🚀 Data Engineering Project: Spark, DBT, and Azure Cloud  
 
-![Azure](https://img.shields.io/badge/Azure-Data%20Pipeline-blue?style=for-the-badge&logo=microsoft-azure)  
-![Spark](https://img.shields.io/badge/Apache%20Spark-Big%20Data-orange?style=for-the-badge&logo=apache-spark)  
-![DBT](https://img.shields.io/badge/DBT-Transformations-red?style=for-the-badge&logo=dbt)  
+![Azure](https://img.shields.io/badge/Azure-Data%20Pipeline-blue?style=for-the-badge&logo=microsoft-azure)  ![Spark](https://img.shields.io/badge/Apache%20Spark-Big%20Data-orange?style=for-the-badge&logo=apache-spark)  ![DBT](https://img.shields.io/badge/DBT-Transformations-red?style=for-the-badge&logo=dbt)  
 
 ## 🌟 **Project Overview**  
 This project implements a **Data Engineering pipeline** using the **Medallion Architecture** on **Azure Cloud**. It leverages **Apache Spark, DBT, and Azure Data Services** for **data ingestion, transformation, and analytics**.  
