@@ -75,11 +75,6 @@ This project implements a **Data Engineering pipeline** using the **Medallion Ar
 
 ---
 
-## 📂 **Folder Structure**  
-
-
----
-
 ## 🎯 **Key Benefits**  
 ✔️ **Scalable** architecture for handling large datasets  
 ✔️ **Automated** ETL pipelines for seamless data flow  
